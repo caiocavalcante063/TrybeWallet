@@ -33,4 +33,4 @@ O projeto foi realizado como parte do programa de formação da Trybe.  Foi sepa
 
 ## Executando o projeto
 
-Clone este repositório, instale as dependências utilizando o comando `npm install` no terminal e `npm start` em seguida para visualziar o projeto. 
+Clone este repositório, instale as dependências utilizando o comando `npm install` no terminal e `npm start` em seguida para visualizar o projeto. 
