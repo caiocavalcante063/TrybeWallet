@@ -1,15 +1,16 @@
-import PropTypes from 'prop-types';
-import React from 'react';
-import { Link } from 'react-router-dom';
-import { connect } from 'react-redux';
-import { userEmailAction } from '../actions/index';
+import PropTypes from "prop-types";
+import React from "react";
+import { Link } from "react-router-dom";
+import { connect } from "react-redux";
+import { userEmailAction } from "../actions/index";
+import "../style/Login.css";
 
 class Login extends React.Component {
   constructor() {
     super();
     this.state = {
-      userEmail: '',
-      password: '',
+      userEmail: "",
+      password: "",
       validateEmail: false,
     };
     this.handleChange = this.handleChange.bind(this);
@@ -23,13 +24,16 @@ class Login extends React.Component {
   }
 
   handleChange({ target: { value, id } }) {
-    this.setState({
-      [id]: value,
-    }, () => {
-      const { userEmail } = this.state;
-      const enableEmail = this.validateEmail(userEmail);
-      this.setState({ validateEmail: enableEmail });
-    });
+    this.setState(
+      {
+        [id]: value,
+      },
+      () => {
+        const { userEmail } = this.state;
+        const enableEmail = this.validateEmail(userEmail);
+        this.setState({ validateEmail: enableEmail });
+      }
+    );
   }
 
   handleClick() {
@@ -43,49 +47,45 @@ class Login extends React.Component {
     const MIN_PASSWORD_CHARACTERS = 6;
 
     return (
-      <form>
-        <label htmlFor="email">
-          Email:
+      <section id="login-wrapper">
+        <form id="login-form">
           <input
             type="email"
             id="userEmail"
             data-testid="email-input"
-            onChange={ this.handleChange }
-            value={ userEmail }
+            onChange={this.handleChange}
+            value={userEmail}
             required
+            placeholder="email"
           />
-        </label>
-        <br />
-        <label htmlFor="password">
-          Senha:
+          <br />
           <input
             type="password"
             id="password"
             data-testid="password-input"
-            onChange={ this.handleChange }
+            onChange={this.handleChange}
+            placeholder="senha"
           />
-        </label>
-        <br />
-        <Link
-          to="/carteira"
-        >
-          <button
-            type="button"
-            disabled={ !(password.length >= MIN_PASSWORD_CHARACTERS && validateEmail) }
-            onClick={ this.handleClick }
-          >
-            Entrar
-          </button>
-        </Link>
-      </form>
+          <br />
+          <Link to="/carteira">
+            <button
+              type="button"
+              disabled={
+                !(password.length >= MIN_PASSWORD_CHARACTERS && validateEmail)
+              }
+              onClick={this.handleClick}
+            >
+              Entrar
+            </button>
+          </Link>
+        </form>
+      </section>
     );
   }
 }
 
 const mapDispatchToProps = (dispatch) => ({
-  userEmailDispatchAction: (email) => (
-    dispatch(userEmailAction(email))
-  ),
+  userEmailDispatchAction: (email) => dispatch(userEmailAction(email)),
 });
 
 Login.propTypes = {
