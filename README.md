@@ -31,6 +31,6 @@ O projeto foi realizado como parte do programa de formação da Trybe.  Foi sepa
 7. Implementar a lógica para que a tabela seja alimentada pelo estado da aplicação.
 8. Criar um botão para deletar uma despesa da tabela.
 
-## Executando o projeto
+## Para visualizar o projeto
 
 Clone este repositório, instale as dependências utilizando o comando `npm install` no terminal e `npm start` em seguida para visualizar o projeto. 
