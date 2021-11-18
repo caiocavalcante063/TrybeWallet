@@ -1,0 +1,42 @@
+#header {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  margin: 0px 10px;
+  justify-content: space-between;
+}
+
+#wallet-img {
+  width: 40px;
+}
+
+#user-info {
+  display: flex;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  gap: 20px;
+  width: 50vw;
+}
+
+#expense-form {
+  align-items: center;
+  background-color: rgb(66, 66, 66);
+  color: white;
+  display: flex;
+  gap: 10px;
+  height: 50px;
+  width: 100%;
+}
+
+.expense-input {
+  margin: 0px 5px;
+}
+
+table {
+  align-items: center;
+  border: 1px solid black;
+  justify-content: center;
+  width: 100%;
+  text-align: center; 
+  vertical-align: middle;
+}

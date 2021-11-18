@@ -1,0 +1,19 @@
+#login-wrapper {
+  background-color: rgb(221, 221, 221);
+  display: flex;
+  height: 100vw;
+  justify-content: center;
+  width: 100%;
+}
+
+#login-form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  height: 150px;
+  justify-content: center;
+  margin-top: 3%;
+  background-color: white;
+  border-radius: 4%;
+};
