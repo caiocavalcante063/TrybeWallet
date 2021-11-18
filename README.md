@@ -8,9 +8,9 @@ React, utilizando Redux para gerenciamento do estado. O projeto consome a API ["
 
 Carteira de controle de gastos com conversor de moedas. Ao utilizar essa aplicação um usuário deverá ser capaz de:
 
-Adicionar e remover um gasto;
-Visualizar uma tabela com seus gastos;
-Visualizar o total de gastos convertidos para uma moeda de escolha;
+- Adicionar e remover um gasto;
+- Visualizar uma tabela com seus gastos;
+- Visualizar o total de gastos convertidos para uma moeda de escolha.
 
 O projeto foi realizado como parte do programa de formação da Trybe.  Foi separado nos seguintes requisitos:
 
