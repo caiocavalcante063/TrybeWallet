@@ -6,8 +6,8 @@ body {
   align-items: center;
   background-color: white;
   display: flex;
-  margin: 0px 10px;
   justify-content: space-between;
+  padding: 0px 10px;
 }
 
 #wallet-wrapper {
@@ -17,6 +17,7 @@ body {
 
 #wallet-img {
   width: 40px;
+  padding-left: 4px;
 }
 
 #user-info {
@@ -49,4 +50,5 @@ table {
   width: 100%;
   text-align: center; 
   vertical-align: middle;
+  padding: 0px 20px
 }
