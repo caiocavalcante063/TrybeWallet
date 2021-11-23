@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import { AiFillDelete } from "react-icons/ai";
 import { connect } from "react-redux";
 import { removeExpense as removeExpenseAction } from "../actions";
 
@@ -10,9 +9,12 @@ class ExpenseTableBody extends Component {
     this.handleDeleteButton = this.handleDeleteButton.bind(this);
   }
 
-  async handleDeleteButton({ target: { value } }) {
+  handleDeleteButton({ target: { value, type } }) {
     const { removeExpense } = this.props;
-    await removeExpense(value);
+    if (type === 'button') {
+      removeExpense(value);
+      console.log(value)
+    }
   }
 
   render() {
@@ -50,7 +52,7 @@ class ExpenseTableBody extends Component {
                     onClick={this.handleDeleteButton}
                     value={expense.id}
                   >
-                    <AiFillDelete />
+                   x
                   </button>
                 </td>
               </tr>

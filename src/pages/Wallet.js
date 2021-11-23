@@ -7,11 +7,11 @@ import "../style/Wallet.css";
 export default class Wallet extends React.Component {
   render() {
     return (
-      <>
+      <div id="wallet-wrapper">
         <Header />
         <ExpenseForm />
         <ExpensesTable />
-      </>
+      </div>
     );
   }
 }

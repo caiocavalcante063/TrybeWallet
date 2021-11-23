@@ -1,9 +1,19 @@
+body {
+  margin: 0;
+  border: 0;
+}
+
 #header {
   align-items: center;
   background-color: white;
   display: flex;
   margin: 0px 10px;
   justify-content: space-between;
+}
+
+#wallet-wrapper {
+  width: fit-content;
+  margin: 0;
 }
 
 #wallet-img {
@@ -25,7 +35,7 @@
   display: flex;
   gap: 10px;
   height: 50px;
-  width: 100%;
+  width: fit-content;
 }
 
 .expense-input {
