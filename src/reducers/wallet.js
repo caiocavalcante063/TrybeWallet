@@ -40,7 +40,6 @@ function wallet(state = INITIAL_STATE, action) {
     const toBeRemovedElement = state.expenses
       .filter((expense) => expense.id === Number(action.payload.index))[0];
     const expenseCurrency = toBeRemovedElement.currency;
-    console.log(state);
     return {
       ...state,
       total: state.total - (Math.round(Number(toBeRemovedElement

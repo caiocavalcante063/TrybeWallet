@@ -1,13 +1,23 @@
+body {
+  text-align: center;
+}
+
 #header {
   align-items: center;
   background-color: white;
   display: flex;
-  margin: 0px 10px;
   justify-content: space-between;
+  padding: 0px 10px;
+}
+
+#wallet-wrapper {
+  width: fit-content;
+  margin: 0;
 }
 
 #wallet-img {
   width: 40px;
+  padding-left: 4px;
 }
 
 #user-info {
@@ -25,7 +35,8 @@
   display: flex;
   gap: 10px;
   height: 50px;
-  width: 100%;
+  width: fit-content;
+  padding: 0px 10px;
 }
 
 .expense-input {
@@ -39,4 +50,5 @@ table {
   width: 100%;
   text-align: center; 
   vertical-align: middle;
+  padding: 0px 20px
 }
