@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TrybeWallet/static/css/main.3840f865.chunk.css",
-    "main.js": "/TrybeWallet/static/js/main.b9a94ccc.chunk.js",
-    "main.js.map": "/TrybeWallet/static/js/main.b9a94ccc.chunk.js.map",
-    "runtime-main.js": "/TrybeWallet/static/js/runtime-main.e31e136f.js",
-    "runtime-main.js.map": "/TrybeWallet/static/js/runtime-main.e31e136f.js.map",
-    "static/js/2.19d9c6dd.chunk.js": "/TrybeWallet/static/js/2.19d9c6dd.chunk.js",
-    "static/js/2.19d9c6dd.chunk.js.map": "/TrybeWallet/static/js/2.19d9c6dd.chunk.js.map",
-    "index.html": "/TrybeWallet/index.html",
-    "precache-manifest.07b8eee80a917870f2affddf8b3d5b9d.js": "/TrybeWallet/precache-manifest.07b8eee80a917870f2affddf8b3d5b9d.js",
-    "service-worker.js": "/TrybeWallet/service-worker.js",
-    "static/css/main.3840f865.chunk.css.map": "/TrybeWallet/static/css/main.3840f865.chunk.css.map",
-    "static/js/2.19d9c6dd.chunk.js.LICENSE.txt": "/TrybeWallet/static/js/2.19d9c6dd.chunk.js.LICENSE.txt",
-    "static/media/wallet.png": "/TrybeWallet/static/media/wallet.5523f71a.png"
+    "main.css": "/trybewallet/static/css/main.3840f865.chunk.css",
+    "main.js": "/trybewallet/static/js/main.879637e5.chunk.js",
+    "main.js.map": "/trybewallet/static/js/main.879637e5.chunk.js.map",
+    "runtime-main.js": "/trybewallet/static/js/runtime-main.ec83dc77.js",
+    "runtime-main.js.map": "/trybewallet/static/js/runtime-main.ec83dc77.js.map",
+    "static/js/2.19d9c6dd.chunk.js": "/trybewallet/static/js/2.19d9c6dd.chunk.js",
+    "static/js/2.19d9c6dd.chunk.js.map": "/trybewallet/static/js/2.19d9c6dd.chunk.js.map",
+    "index.html": "/trybewallet/index.html",
+    "precache-manifest.6807c41efa84af550242bfb077cc5b4a.js": "/trybewallet/precache-manifest.6807c41efa84af550242bfb077cc5b4a.js",
+    "service-worker.js": "/trybewallet/service-worker.js",
+    "static/css/main.3840f865.chunk.css.map": "/trybewallet/static/css/main.3840f865.chunk.css.map",
+    "static/js/2.19d9c6dd.chunk.js.LICENSE.txt": "/trybewallet/static/js/2.19d9c6dd.chunk.js.LICENSE.txt",
+    "static/media/wallet.png": "/trybewallet/static/media/wallet.5523f71a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e31e136f.js",
+    "static/js/runtime-main.ec83dc77.js",
     "static/js/2.19d9c6dd.chunk.js",
     "static/css/main.3840f865.chunk.css",
-    "static/js/main.b9a94ccc.chunk.js"
+    "static/js/main.879637e5.chunk.js"
   ]
 }
