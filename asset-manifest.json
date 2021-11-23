@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/app-toot-name/static/css/main.3840f865.chunk.css",
-    "main.js": "/app-toot-name/static/js/main.c2f71afa.chunk.js",
-    "main.js.map": "/app-toot-name/static/js/main.c2f71afa.chunk.js.map",
-    "runtime-main.js": "/app-toot-name/static/js/runtime-main.cfc30c8d.js",
-    "runtime-main.js.map": "/app-toot-name/static/js/runtime-main.cfc30c8d.js.map",
-    "static/js/2.19d9c6dd.chunk.js": "/app-toot-name/static/js/2.19d9c6dd.chunk.js",
-    "static/js/2.19d9c6dd.chunk.js.map": "/app-toot-name/static/js/2.19d9c6dd.chunk.js.map",
-    "index.html": "/app-toot-name/index.html",
-    "precache-manifest.f6c3554c4f6777cb4627654f3e61f199.js": "/app-toot-name/precache-manifest.f6c3554c4f6777cb4627654f3e61f199.js",
-    "service-worker.js": "/app-toot-name/service-worker.js",
-    "static/css/main.3840f865.chunk.css.map": "/app-toot-name/static/css/main.3840f865.chunk.css.map",
-    "static/js/2.19d9c6dd.chunk.js.LICENSE.txt": "/app-toot-name/static/js/2.19d9c6dd.chunk.js.LICENSE.txt",
-    "static/media/wallet.png": "/app-toot-name/static/media/wallet.5523f71a.png"
+    "main.css": "/TrybeWallet/static/css/main.3840f865.chunk.css",
+    "main.js": "/TrybeWallet/static/js/main.b9a94ccc.chunk.js",
+    "main.js.map": "/TrybeWallet/static/js/main.b9a94ccc.chunk.js.map",
+    "runtime-main.js": "/TrybeWallet/static/js/runtime-main.e31e136f.js",
+    "runtime-main.js.map": "/TrybeWallet/static/js/runtime-main.e31e136f.js.map",
+    "static/js/2.19d9c6dd.chunk.js": "/TrybeWallet/static/js/2.19d9c6dd.chunk.js",
+    "static/js/2.19d9c6dd.chunk.js.map": "/TrybeWallet/static/js/2.19d9c6dd.chunk.js.map",
+    "index.html": "/TrybeWallet/index.html",
+    "precache-manifest.07b8eee80a917870f2affddf8b3d5b9d.js": "/TrybeWallet/precache-manifest.07b8eee80a917870f2affddf8b3d5b9d.js",
+    "service-worker.js": "/TrybeWallet/service-worker.js",
+    "static/css/main.3840f865.chunk.css.map": "/TrybeWallet/static/css/main.3840f865.chunk.css.map",
+    "static/js/2.19d9c6dd.chunk.js.LICENSE.txt": "/TrybeWallet/static/js/2.19d9c6dd.chunk.js.LICENSE.txt",
+    "static/media/wallet.png": "/TrybeWallet/static/media/wallet.5523f71a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cfc30c8d.js",
+    "static/js/runtime-main.e31e136f.js",
     "static/js/2.19d9c6dd.chunk.js",
     "static/css/main.3840f865.chunk.css",
-    "static/js/main.c2f71afa.chunk.js"
+    "static/js/main.b9a94ccc.chunk.js"
   ]
 }
