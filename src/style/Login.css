@@ -7,11 +7,12 @@
 }
 
 #login-form {
+  font-size: 1.5em;
   align-items: center;
   display: flex;
   flex-direction: column;
-  width: 21em;
-  height: 12em;
+  width: 13em;
+  height: 8em;
   justify-content: center;
   margin-top: 3%;
   background-color: white;
