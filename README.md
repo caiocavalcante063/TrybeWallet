@@ -2,7 +2,7 @@
 
 ## Tecnologias utilizadas
 
-React, utilizando Redux para gerenciamento do estado. O projeto consome a API ["API de Cotações de Moedas"](https://docs.awesomeapi.com.br/api-de-moedas).
+React, utilizando Redux para gerenciamento do estado da aplicação. O projeto consome a API ["API de Cotações de Moedas"](https://docs.awesomeapi.com.br/api-de-moedas).
 
 ## Descrição
 
