@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TrybeWallet/static/css/main.70b63a1e.chunk.css",
-    "main.js": "/TrybeWallet/static/js/main.2f78a4ff.chunk.js",
-    "main.js.map": "/TrybeWallet/static/js/main.2f78a4ff.chunk.js.map",
+    "main.css": "/TrybeWallet/static/css/main.8319d8b1.chunk.css",
+    "main.js": "/TrybeWallet/static/js/main.06cb5c08.chunk.js",
+    "main.js.map": "/TrybeWallet/static/js/main.06cb5c08.chunk.js.map",
     "runtime-main.js": "/TrybeWallet/static/js/runtime-main.e31e136f.js",
     "runtime-main.js.map": "/TrybeWallet/static/js/runtime-main.e31e136f.js.map",
-    "static/js/2.19d9c6dd.chunk.js": "/TrybeWallet/static/js/2.19d9c6dd.chunk.js",
-    "static/js/2.19d9c6dd.chunk.js.map": "/TrybeWallet/static/js/2.19d9c6dd.chunk.js.map",
+    "static/js/2.e7d3be7b.chunk.js": "/TrybeWallet/static/js/2.e7d3be7b.chunk.js",
+    "static/js/2.e7d3be7b.chunk.js.map": "/TrybeWallet/static/js/2.e7d3be7b.chunk.js.map",
     "index.html": "/TrybeWallet/index.html",
-    "precache-manifest.3008833ae27061fe9ced94ef59b045b0.js": "/TrybeWallet/precache-manifest.3008833ae27061fe9ced94ef59b045b0.js",
+    "precache-manifest.f45da06ca0c6402c291d5f80a4b4ab05.js": "/TrybeWallet/precache-manifest.f45da06ca0c6402c291d5f80a4b4ab05.js",
     "service-worker.js": "/TrybeWallet/service-worker.js",
-    "static/css/main.70b63a1e.chunk.css.map": "/TrybeWallet/static/css/main.70b63a1e.chunk.css.map",
-    "static/js/2.19d9c6dd.chunk.js.LICENSE.txt": "/TrybeWallet/static/js/2.19d9c6dd.chunk.js.LICENSE.txt",
+    "static/css/main.8319d8b1.chunk.css.map": "/TrybeWallet/static/css/main.8319d8b1.chunk.css.map",
+    "static/js/2.e7d3be7b.chunk.js.LICENSE.txt": "/TrybeWallet/static/js/2.e7d3be7b.chunk.js.LICENSE.txt",
     "static/media/wallet.png": "/TrybeWallet/static/media/wallet.5523f71a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e31e136f.js",
-    "static/js/2.19d9c6dd.chunk.js",
-    "static/css/main.70b63a1e.chunk.css",
-    "static/js/main.2f78a4ff.chunk.js"
+    "static/js/2.e7d3be7b.chunk.js",
+    "static/css/main.8319d8b1.chunk.css",
+    "static/js/main.06cb5c08.chunk.js"
   ]
 }
