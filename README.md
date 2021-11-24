@@ -34,4 +34,4 @@ O projeto foi realizado como parte do programa de formação da Trybe.  Foi sepa
 ## Para visualizar o projeto
 
 Acesse o link https://caiocavalcante063.github.io/TrybeWallet/, ou:
-Clone este repositório, instale as dependências utilizando o comando `npm install` no terminal e `npm start` em seguida para visualizar o projeto. 
+Clone este repositório, instale as dependências utilizando o comando `npm install` no terminal e utilize o comando `npm start` em seguida para visualizar o projeto. 
