@@ -6,7 +6,7 @@ Este projeto trata-se de uma carteira de controle de gastos com conversor de moe
 
  - Adicionar, remover e editar um gasto;
  - Visualizar uma tabela com seus gastos;
- - Visualizar o total de gastos convertidos para uma moeda de escolha;
+ - Visualizar o total de gastos convertidos para o Real;
 
 ## Tecnologias utilizadas
 
