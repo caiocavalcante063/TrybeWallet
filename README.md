@@ -10,7 +10,7 @@ Este projeto trata-se de uma carteira de controle de gastos com conversor de moe
 
 ## Tecnologias utilizadas
 
-> React, Redux, CSS3;
+> React, Redux e CSS3;
 > Consome: ["API de Cotações de Moedas"](https://docs.awesomeapi.com.br/api-de-moedas);
 
 ## Executando o Projeto
