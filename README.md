@@ -12,7 +12,7 @@ Carteira de controle de gastos com conversor de moedas. Ao utilizar essa aplica�
 - Visualizar uma tabela com seus gastos;
 - Visualizar o total de gastos convertidos para uma moeda de escolha.
 
-O projeto foi realizado como parte do programa de formação da Trybe.  Foi separado nos seguintes requisitos:
+Projeto individual, realizado como parte do programa de formação da Trybe.  Foi separado nos seguintes requisitos:
 
 1 . Criar uma página de Login com as verificações: 
 - O email está no formato válido, como 'alguem@alguem.com'. 
